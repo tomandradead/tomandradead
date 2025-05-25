@@ -10,8 +10,6 @@ Olá, eu sou o Tom.
 Isso significa que, como Analistas de Dados, estamos constantemente treinando nossa mente para identificar padrões e extrair insights valiosos de uma quantidade massiva de dados inconscientemente processados, tornando o invisível, visível! É quase como ter um superpoder para desvendar os segredos que os números guardam. Incrível, não é?
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomandradead&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomandradead&hide=contribs,prs&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomandradead&show_icons=true&theme=tokyonight)
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Tom-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
